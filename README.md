@@ -35,7 +35,7 @@ Trabalho com bancos de dados como <strong>PostgreSQL, MySQL e MongoDB</strong> e
 
 ## 📊 Estatísticas do GitHub
 
-div align="center">
+<div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MacedoGuilherme12&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MacedoGuilherme12&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
 </div>
